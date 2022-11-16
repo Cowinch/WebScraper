@@ -1,0 +1,1 @@
+Cheerio picks out HTML elements on webpage. This will help us grab data and turn it into an API
